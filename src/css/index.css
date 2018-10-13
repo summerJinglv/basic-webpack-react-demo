@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Lobster";
+    src: url("../font/Lobster.woff2");
+}
+.test{
+    font-size: 22px;
+    color:#808080;
+    text-align: center;
+    background-image: url(../images/promote_vicons.png);
+    font-family: 'Lobster','Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}

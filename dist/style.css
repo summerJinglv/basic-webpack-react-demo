@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "Lobster";
+    src: url(70f3d4dd60f7821a7cd289359e4e56d8.woff2);
+}
+.test{
+    font-size: 22px;
+    color:#808080;
+    text-align: center;
+    background-image: url(9cc44a4e5d9aa47df84f9fd51d3d4905.png);
+    font-family: 'Lobster','Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}.test {
+  width: 100px;
+  height: 100px;
+  background: #ccc; }
